@@ -36,10 +36,6 @@ Enter Below Credentials to login to the Admin Panel.
 Username = admin
 Password = @123
 
-If you like my project hit the star 🌟 button
-Screenshots
-User Panel Images
-
 
    
    
